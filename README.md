@@ -1,5 +1,4 @@
-# Recursos de enseñanza
-Materiales para los cursos del Grupo PLN  - UdelaR
+# Grupo PLN UdelaR : Recursos de enseñanza
 
 - [Apuntes de repaso de Álgebra Lineal (Notebook)](https://github.com/pln-fing-udelar/curso_aa/blob/master/material_adicional/A%20-%20Algebra%20Lineal.ipynb)
 - [Introducción a NumPy](https://github.com/pln-fing-udelar/curso_aa/blob/master/material_adicional/Intro_NumPy.ipynb)
