@@ -8,3 +8,5 @@
 4. [Introducción a PyTorch](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/PyTorch-Intro.ipynb)
 5. [Repaso de Álgebra Lineal](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Algebra-Lineal.ipynb)
 6. [Álgebra Lineal con NumPy](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/AlgebraLineal-con-NumPy.ipynb)
+7. [Entropía Cruzada](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Entropía-Cruzada.ipynb)
+
