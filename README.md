@@ -9,4 +9,5 @@
 5. [Repaso de Álgebra Lineal](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Algebra-Lineal.ipynb)
 6. [Álgebra Lineal con NumPy](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/AlgebraLineal-con-NumPy.ipynb)
 7. [Entropía Cruzada](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/Entropía-Cruzada.ipynb)
+8. [Principal Component Analysis](https://github.com/pln-fing-udelar/cursos/blob/master/tutoriales/PCA.ipynb)
 
