@@ -1,11 +1,13 @@
 ## Curso "Redes Neuronales para el análisis y la generación de texto"
 ### [Escuela Latinoamericana de Informática 2025](https://conferencia2025.clei.org/eli/)
 
-27 al 30 de diciembre de 2025
+27 al 30 de octubre de 2025
 
 Docentes: [Guillermo Moncecchi](gmonce@fing.edu.uy), [Juan José Prada](prada@fing.edu.uy), [Aiala Rosá](aialar@fing.edu.uy)
 
 [Grupo de Procesamiento de Lenguaje Natural](https://www.fing.edu.uy/inco/grupos/pln) 
+
+Instuto de Computación - Facultad de Ingeniería 
 
 Universidad de la República, Uruguay. 
 
