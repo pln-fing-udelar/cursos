@@ -21,6 +21,7 @@ Twitter: @PLN_UdelaR
 2. [Redes Neuronales](https://github.com/pln-fing-udelar/cursos/blob/master/CLEI2025/Redes%20Neuronales.pdf)
 3. [Word Embeddings](https://github.com/pln-fing-udelar/cursos/blob/master/CLEI2025/Word%20Embeddings.pdf)
 4. [Grandes Modelos de Lenguaje](https://github.com/pln-fing-udelar/cursos/blob/master/CLEI2025/Grandes%20Modelos%20de%20Lenguaje.pdf)
+5. [Usos de LLMs](https://github.com/pln-fing-udelar/cursos/blob/master/CLEI2025/Usos%20de%20LLMs.pdf)
 
 
 
