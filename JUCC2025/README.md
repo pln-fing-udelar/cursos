@@ -1,5 +1,5 @@
 ## Taller "Entrenamiento de Grandes Modelos de Lenguaje"
-### [Jornadas Uruguayas de Ciencia de la Copmutación 2025](https://www.fing.edu.uy/inco/eventos/jornadas-uruguayas-ciencias-computacion-2025/)
+### [Jornadas Uruguayas de Ciencia de la Computación 2025](https://www.fing.edu.uy/inco/eventos/jornadas-uruguayas-ciencias-computacion-2025/)
 
 9 de diciembre de 2025
 
