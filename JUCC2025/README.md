@@ -17,7 +17,7 @@ Twitter: @PLN_UdelaR
 
 ### Notebook del Taller
 
-- [Entrenamiento de Grandes Modelos de Lenguaje](https://github.com/pln-fing-udelar/cursos/blob/master/Taller_LLMs_JUCC.ipynb)
+- [Entrenamiento de Grandes Modelos de Lenguaje](https://github.com/pln-fing-udelar/cursos/blob/master/JUCC2025/Taller_LLMs_JUCC.ipynb)
 
 
 
