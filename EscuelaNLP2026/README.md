@@ -17,11 +17,11 @@ Twitter: @PLN_UdelaR
 
 ### Presentación 
 
-- [Epentrenamiento de Grandes Modelos de Lenguaje](slides.pdf)
+- [Epentrenamiento de Grandes Modelos de Lenguaje](./slides.pdf)
 
 ### Notebook del Taller
 
-- [Epentrenamiento de Grandes Modelos de Lenguaje](Tutorial_LLMs_EscuelaNLP.ipynb)
+- [Epentrenamiento de Grandes Modelos de Lenguaje](./Tutorial_LLMs_EscuelaNLP.ipynb)
 
 
 
