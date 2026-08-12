@@ -1,7 +1,7 @@
 ## Taller "Epentrenamiento de Grandes Modelos de Lenguaje"
-### [Segunda Escuela Sudamericana de Procesamiento de Lenguaje Natural](https://www.fing.edu.uy/inco/eventos/jornadas-uruguayas-ciencias-computacion-2025/)
+### [Segunda Escuela Sudamericana de NLP](https://south-american-nlp-school.dc.uba.ar/)
 
-9 de diciembre de 2025
+4 de agosto de 2026
 
 Docentes: [Guillermo Moncecchi](gmonce@fing.edu.uy), [Ignacio Sastre](isastre@fing.edu.uy)
 
@@ -15,9 +15,13 @@ E-mail: pln@fing.edu.uy
 
 Twitter: @PLN_UdelaR
 
+### Presentación 
+
+- [Epentrenamiento de Grandes Modelos de Lenguaje](slides.pdf)
+
 ### Notebook del Taller
 
-- [Entrenamiento de Grandes Modelos de Lenguaje](https://github.com/pln-fing-udelar/cursos/blob/master/JUCC2025/Taller_LLMs_JUCC.ipynb)
+- [Epentrenamiento de Grandes Modelos de Lenguaje](Tutorial_LLMs_EscuelaNLP.ipynb)
 
 
 
